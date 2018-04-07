@@ -6,7 +6,7 @@
 * [Instructions](#instructions)
 * [Contributing](#contributing)
 * [Play-Game](#play-game)
-* [Game-Over](#game-over]
+* [Game-Over](#game-over)
 
 ## Instructions 
 
@@ -25,4 +25,11 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Play-Game
+
+The game starts with face down cards.
+In order to play you have to open two cards at a time to see if they are equal.
+If these cards are the same, ie they have the same image, they will remain open, otherwise there will be a removal of the opening.
+The card symbols in the JavaScript file (`js/app.js`): 
 ## Game-Over 
+
+To win the game you must match 8 cards.
