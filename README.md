@@ -39,8 +39,10 @@ The cards are shuffled through the shuffle function:
 
 `` `function shuffle(array) {
     ...... 
-        }  
-        return array; 
+        while (currentIndex !== 0) {
+    .....
+         }  
+     return array; 
      } 
      shuffle(listCards);   `` `
      
