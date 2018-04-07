@@ -1,4 +1,5 @@
-# Memory Game Project
+# Memory Game 
+## Anca Gaboreanu
 
 ## Table of Contents
 
