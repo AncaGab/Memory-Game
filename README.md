@@ -29,7 +29,9 @@ For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 The game starts with face down cards.
 In order to play you have to open two cards at a time to see if they are equal.
 If these cards are the same, ie they have the same image, they will remain open, otherwise there will be a removal of the opening.
+
 The card symbols in the JavaScript file (`js/app.js`): 
+
 `` ` let listCards = ["fa-diamond", "fa-paper-plane-o", "fa-anchor",  "fa-bolt",  "fa-cube",  "fa-anchor", "fa-leaf", "fa-bicycle", "fa-diamond",  "fa-bomb",  "fa-leaf", "fa-bomb",  "fa-bolt", "fa-bicycle",  "fa-paper-plane-o", "fa-cube"]; 
 `` `
         
