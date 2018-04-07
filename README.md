@@ -34,7 +34,16 @@ The cards symbols in the JavaScript file (`js/app.js`):
 
 `` ` let listCards = ["fa-diamond", "fa-paper-plane-o", "fa-anchor",  "fa-bolt",  "fa-cube",  "fa-anchor", "fa-leaf", "fa-bicycle", "fa-diamond",  "fa-bomb",  "fa-leaf", "fa-bomb",  "fa-bolt", "fa-bicycle",  "fa-paper-plane-o", "fa-cube"]; 
 `` `
-        
+
+The cards are shuffled through the shuffle function:
+
+`` `function shuffle(array) {
+    ...... 
+        }  
+        return array; 
+     } 
+     shuffle(listCards);   `` `
+     
 ## Game-Over 
 
 To win the game you must match 8 cards.
