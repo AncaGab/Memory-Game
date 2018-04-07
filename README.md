@@ -6,6 +6,7 @@
 * [Instructions](#instructions)
 * [Contributing](#contributing)
 * [Play-Game](#play-game)
+* [Game-Over](#game-over]
 
 ## Instructions 
 
@@ -24,3 +25,4 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Play-Game
+## Game-Over 
