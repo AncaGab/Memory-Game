@@ -5,7 +5,7 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-* [Play-Game].(#play-game)
+* [Play-Game](#play-game)
 
 ## Instructions 
 
