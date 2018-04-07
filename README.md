@@ -1,5 +1,5 @@
 # Memory Game 
-### Author ## Anca Gaboreanu
+### Author: Anca Gaboreanu
 
 ## Table of Contents
 
