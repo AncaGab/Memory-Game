@@ -46,18 +46,12 @@ The cards are shuffled through the shuffle function:
      } 
      shuffle(listCards);   `` `
      
-     
-There will be a record of the time spent and the moves during the game.
+During the game the moves will be recorded, the moves are connected to the stars, the duration of the game
      
 ## Game-Over 
 
 To win the game you must match 8 cards.
-The code is:
 
-`` `
+At the end a modal will open containing the stars, moves and time during the game.
 
-if(winGame == 8) {
-stopTimer();
-setTimeout(function() { 
-
-            `` `
+Have fun playing !
