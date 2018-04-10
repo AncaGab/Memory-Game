@@ -46,6 +46,9 @@ The cards are shuffled through the shuffle function:
      } 
      shuffle(listCards);   `` `
      
+     
+There will be a record of the time spent and the moves during the game.
+     
 ## Game-Over 
 
 To win the game you must match 8 cards.
