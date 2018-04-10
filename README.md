@@ -54,7 +54,7 @@ There will be a record of the time spent and the moves during the game.
 To win the game you must match 8 cards.
 The code is:
 
-``
+`` `
 
 if(winGame == 8) {
                 stopTimer();
@@ -65,4 +65,4 @@ if(winGame == 8) {
             finalTime.innerText = time.innerText;
             modalContent.append(stars);
             }
-            ``
+            `` `
