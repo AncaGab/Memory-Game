@@ -57,12 +57,12 @@ The code is:
 `` `
 
 if(winGame == 8) {
-                stopTimer();
-                setTimeout(function() { 
-                 showModal();
-                }, 1000);
-            numberMoves.innerText = moves.innerText;
-            finalTime.innerText = time.innerText;
-            modalContent.append(stars);
-            }
+stopTimer();
+setTimeout(function() { 
+showModal();
+}, 1000);
+numberMoves.innerText = moves.innerText;
+finalTime.innerText = time.innerText;
+modalContent.append(stars);
+}
             `` `
