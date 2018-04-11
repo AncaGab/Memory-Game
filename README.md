@@ -26,6 +26,15 @@ For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Play-Game
 
+In order to play or make changes you can clone or download the repository from https://github.com/AncaGab/Memory-Game
+
+`` `
+
+$ git clone {YOUR_REPOSITORY_CLONE_URL}
+$ cd Memory-Game
+
+`` `
+
 The game starts with face down cards.
 In order to play you have to open two cards at a time to see if they are equal.
 If these cards are the same, ie they have the same image, they will remain open, otherwise there will be a removal of the opening.
