@@ -1,6 +1,9 @@
 # Memory Game 
 ### Author: Anca Gaboreanu
 
+The **memory game** is a card game, where the main purpose
+is to couple the two equal carts, in the shortest time and least moves possible.
+
 ## Table of Contents
 
 * [Instructions](#instructions)
