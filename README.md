@@ -4,13 +4,7 @@
 The **memory game** is a card game, where the main purpose
 is to couple the two equal carts, in the shortest time and least moves possible.
 
-In order to play or make changes you can clone or download the repository from https://github.com/AncaGab/Memory-Game
-
-`` `  
-$ git clone {YOUR_REPOSITORY_CLONE_URL}
-
-$ cd Memory-Game  
-`` `
+In order to play or make changes you can clone or download Zip file the repository from https://github.com/AncaGab/Memory-Game
 
 ## Table of Contents
 
@@ -37,6 +31,8 @@ For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Play-Game
 
+Open index.html with your favorite browser.
+
 The game starts with face down cards.
 In order to play you have to open two cards at a time to see if they are equal.
 If these cards are the same, ie they have the same image, they will remain open, otherwise there will be a removal of the opening.
@@ -61,7 +57,9 @@ During the game the moves will be recorded, the moves are connected to the stars
      
 ## Game-Over 
 
-To win the game you must match 8 cards.
+You win when you find all the pairs.
+
+To win the game you must match 8 cards. You lose a star after 10 moves, and another one after 20 moves.
 
 At the end a modal will open containing the stars, moves and time during the game.
 
